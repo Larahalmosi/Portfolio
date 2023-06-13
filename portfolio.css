@@ -70,7 +70,7 @@ a:active {
    margin-left: 12%;
   }
 .hintergrundbild {
-  background: url("DSC_1327.JPG") no-repeat center;
+  background: url("https://github.com/Larahalmosi/Portfolio/blob/main/material/DSC_1327.JPG") no-repeat center;
   background-size: cover;
   margin-top: 0;
   height: 450px;
@@ -87,15 +87,15 @@ a:active {
 }
 @keyframes slide {
   0% {
-    background-image: url("/material/DSC_2289.JPG");
+    background-image: url("https://github.com/Larahalmosi/Portfolio/blob/main/material/DSC_2289.JPG");
     image-rendering: optimizeSpeed;
   }
   50% {
-    background-image: url("/material/DSC_1327.JPG");
+    background-image: url("https://github.com/Larahalmosi/Portfolio/blob/main/material/DSC_1327.JPG");
     image-rendering: optimizeSpeed;
   }
   100% {
-    background-image: url("/material/DSC_1628.JPG");
+    background-image: url("https://github.com/Larahalmosi/Portfolio/blob/main/material/DSC_1628.JPG");
     image-rendering: optimizeSpeed;
   }
 }
