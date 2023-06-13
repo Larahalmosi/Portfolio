@@ -27,7 +27,7 @@ a {
   color: black;
 }
 a:hover {
-  color: white;
+  color: rgb(216, 249, 0);
   text-decoration: solid;
   text-decoration: underline;
 }
